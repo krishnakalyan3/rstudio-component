@@ -46,3 +46,9 @@ pip install -e .
 username: zeus
 password: radmin
 ```
+
+### TODO
+- [ ] Unit Test
+- [ ] Application Check
+- [ ] CI Pipeline
+- [ ] Precommit
